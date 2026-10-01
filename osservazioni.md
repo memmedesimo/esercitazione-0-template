@@ -2,7 +2,7 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Matteo
 
 URL del repository condiviso:
 
